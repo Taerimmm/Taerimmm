@@ -6,6 +6,11 @@
 
 :fire: Interest
 
+- Data Analysis
+- Machine Learning
+- Deep Learning
+- Image Processing
+- Computer Vision
 
 :cyclone: Languages
 
