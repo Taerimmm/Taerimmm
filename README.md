@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![TR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taerimmm&show_icons=true)
 
